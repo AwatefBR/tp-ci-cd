@@ -8,3 +8,4 @@ tfstate/
  ------- terraform.tfstate
  ----- dev/ ← Workspace DEV
  ----- prod/ ← Workspace PROD
+ 
